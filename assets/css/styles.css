@@ -13,6 +13,14 @@ h1{
   font-size: 5em; 
 }
 
+h2{
+   font-family: "DM Mono", monospace
+  font-weight: 400;
+  font-style: normal;
+  color:rgb(223, 190, 190); 
+  font-size: 50px; 
+}
+
 pre {
    font-family: "DM Mono", monospace;
   font-weight: 400;
@@ -60,5 +68,5 @@ p {
 div {
 	font-size: 30px;
 	color:#ffdab9;
-	font-family: "Bebas Neue", sans-serif;
+	font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
 }
