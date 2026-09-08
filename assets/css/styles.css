@@ -1,7 +1,7 @@
 /* styles.css */
 html{
-	background: #EEAECA;
-background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(233, 148, 148, 0.77) 100%);
+	background: #fdead7;
+background: radial-gradient(circle, #f7f3f080 0%, #feccde 100%);
 }
 
 
@@ -14,10 +14,10 @@ h1{
 }
 
 pre {
-  font-family: "Permanent Marker", cursive;
+   font-family: "DM Mono", monospace;
   font-weight: 400;
   font-style: normal;
-  color:brown;
+  color:#f7a5c3;
 }
 
 .dm-mono-light {
@@ -36,7 +36,7 @@ p {
   font-family: "DM Mono", monospace;
   font-weight: 500;
   font-style: normal;
-  color:brown;
+  color:#f7a5c3;
 }
 
 .dm-mono-light-italic {
@@ -58,7 +58,7 @@ p {
 }
 
 div {
-	font-size: 300px;
-	color:peachpuff;
-	
+	font-size: 30px;
+	color:#ffdab9;
+	font-family: "Bebas Neue", sans-serif;
 }
